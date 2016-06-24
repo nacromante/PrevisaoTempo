@@ -1,0 +1,28 @@
+
+Rio Branco-AC     240
+Maceió-AL         233
+Macapá-AP         232
+Manaus-AM         234
+Salvador-BA       242
+Fortaleza-CE      229
+Brasília-DF       224
+Vitória-ES        246
+Goiânia-GO        230
+São luís-MA       243
+Cuiabá-MT         226
+Campo Grande-MS   225
+Belo Horizonte-MG 222
+Belém-PA          221
+João Pessoa-PB    231
+Curitiba-PR	  227
+Recife-PI         239
+Teresina-PI	  245
+Rio de Janeiro-RJ 241
+Natal-RN          235
+Porto Alegre-RS   237
+Porto Velho-RO    238
+Boa Vista-RR      223
+Florianópolis-SC  228
+São Paulo-SP      244
+Aracaju-SE        220
+Palmas-TO         236
